@@ -1,6 +1,8 @@
 Навыки и технологии
 SQL, excel, статистика, бизнес процессы
+
 Контактная информация
+
 LinkedIn: https://www.linkedin.com/in/arina-belyalova-684807228/
 
 Название проекта 1: 
